@@ -598,7 +598,7 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 300;
   height: auto;
 }
 
@@ -3728,8 +3728,8 @@ textarea.form-control-lg {
 .navbar {
   --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0.5rem;
-  --bs-navbar-color: rgba(0, 0, 0, 0.55);
-  --bs-navbar-hover-color: rgba(0, 0, 0, 0.7);
+  --bs-navbar-color: #0dcaf0;
+  --bs-navbar-hover-color: #61a7c7;
   --bs-navbar-disabled-color: rgba(0, 0, 0, 0.3);
   --bs-navbar-active-color: rgba(0, 0, 0, 0.9);
   --bs-navbar-brand-padding-y: 0.3125rem;
@@ -6719,7 +6719,7 @@ textarea.form-control-lg {
   color: #0dcaf0 !important;
 }
 .link-primary-dark:hover, .link-primary-dark:focus {
-  color: #3dd5f3 !important;
+  color: #61a7c7 !important;
 }
 
 .link-warning {
